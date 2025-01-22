@@ -8,7 +8,7 @@ The program comprises an interactive spot-the-difference game with the following
 * A "hot-and-cold" system that shows the proximity of the cursor to a difference (in easy mode)
 * A difference counter, implemented on the development board's 7-segment display
 
-Details on the implementation of the game can be found in the [project report]()
+Details on the implementation of the game can be found in the [project report](project_report.pdf).
 
 ### Required hardware
 
